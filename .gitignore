@@ -1,0 +1,7 @@
+# Ignore dependencies
+node_modules/ venv/ __pycache__/
+# Ignore environment & secrets
+.env secrets.json
+# Ignore system files
+.DS_Store
+
